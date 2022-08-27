@@ -1,2 +1,2 @@
 # argocd-project
-apps of app argocd automated deployments examples
+app of apps argocd automated deployments examples
