@@ -1,2 +1,2 @@
 # argocd-project
-app of apps argocd automated deployments examples
+app of apps k8's based argocd automated deployments examples
